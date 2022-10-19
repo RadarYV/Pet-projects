@@ -11,6 +11,16 @@ Check the data on the test sample and draw conclusions.
 ## Data
 The data is in the file 'taxi.csv'. The number of orders is in the num_orders column
 
+## Brief
+- We loaded data, evaluate and prepare it for further analysis. 
+- We perform stationarity tests (KPSS & ADF), 
+- Evaluate periods by FFT and ACF & PACF,
+- Define type of seasonality and type of trend
+- Generate features for regression models
+- Test models: Linear Regression, LGBM, SARIMA, HoltWinters, SLT Forecast, Facebook Prophet
+- Select best model on validation dataset and test it on test dataset
+
+
 ## Libraries used
 
 - pandas
