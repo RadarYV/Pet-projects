@@ -1,6 +1,6 @@
 # List of Pet projects
 
-## Task
+## A/B test
 Plan an A/B test, run, and analyze the results for an online store.
 
 ### Libraries used
