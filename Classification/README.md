@@ -1,4 +1,4 @@
-# Bootstrap in oil mining company
+# Classification. Predict client churn
 
 Customers began to leave BetaBank. Every month. A little, but noticeable. Bank marketers have calculated that it is cheaper to retain current customers than to attract new ones.
 
