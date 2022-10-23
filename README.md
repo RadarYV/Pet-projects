@@ -12,7 +12,7 @@ __Tags__
 	resample, rolling, diff, is_monotonic, sort_index, stationarity, ADF (Augmented Dickey-Fuller) test, KPSS (Kwiatkowski-Phillips-Schmidt-Shin), Fast Fourier transform, fft, ACF, PACF, seasonality, additive, multiplicative, ARIMA, SARIMA, ES, exponential smoothing, Holt-Winters, STL Forecast, Facebook Prophet, 
 
 
-# Bootstrap in oil mining company ([link](https://github.com/RadarYV/Pet-projects/blob/main/Bootstrap/geo_bootstrap.ipynb))
+## Bootstrap in oil mining company ([link](https://github.com/RadarYV/Pet-projects/blob/main/Bootstrap/geo_bootstrap.ipynb))
 	Calc profit and probability of loss choosing a site for oil mining
 **Tags**  
 	bootstrap, 3d plot
