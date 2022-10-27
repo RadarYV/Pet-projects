@@ -16,3 +16,19 @@ __Tags__
 	Calc profit and probability of loss choosing a site for oil mining
 **Tags**  
 	bootstrap, 3d plot
+
+
+## Classification. Predict client churn ([link](https://github.com/RadarYV/Pet-projects/blob/main/Classification/classification_churn.ipynb))
+	Build a model to classify clients of bank by their churn probability
+**Tags**
+	ROC AUC, RPC (recall-precision curve), optimal treshold, downsampling (Random Under-Sample, Edited Nearest Neighbours, ENN, TomekLinks), upsampling (random over sampler ROS, SMOTE, ADASYN), balanced classes, imbalance, kaggle
+
+## Regression. Predict a rate of gold from gold-bearing ore ([link](https://github.com/RadarYV/Pet-projects/blob/main/Regression/gold_recovery.ipynb))
+	The model should predict the recovery rate of gold from gold-bearing ore.
+**Tags**
+	Exploration of the industrial process, optuna, model selection, hyperparams optimization, 
+
+## Regression. Predict industrial parameters with ML model. ([link](https://github.com/RadarYV/Pet-projects/blob/main/Boruta%20SHAP%20%2B%20regression/steel.ipynb))
+	Build a model that predicts the temperature of steel
+**Tags**
+	feature selection, optuna, Boruta SHAP
